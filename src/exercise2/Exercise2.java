@@ -42,7 +42,7 @@ public class Exercise2 {
                 System.out.println(startYear);
             }
         }
-        System.out.println("_____________________--");
+        System.out.println("______________________--");
 
         int t = 2;
         for(int i = 0; i<=10; i++){
